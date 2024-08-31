@@ -1,0 +1,896 @@
+Script started on Wed Sep  6 10:04:41 2023
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h../barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 1
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 5
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [2] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [2] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [2].
+Barber [1]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[1], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [3] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [3] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [3].
+Barber [1]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[1], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [4] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [4] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [4].
+Barber [1]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[1], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [5] with ticket number {1} to Barber [1].
+Customer [5]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [5] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [5].
+Barber [1]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 10
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [2] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [2] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [2].
+Barber [1]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[1], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [3] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [3] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [3].
+Barber [1]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[1], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [4] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [4] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [4].
+Barber [1]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[1], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [5] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [5]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [5] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [5].
+Barber [1]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[1], bye!
+Customer [6]: I have arrived at the barber shop.
+Customer [6]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [6] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [6]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [6] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [6].
+Barber [1]: I'm now ready to accept a customer
+Customer [6]: Well done. Thank barber[1], bye!
+Customer [7]: I have arrived at the barber shop.
+Customer [7]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [7] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [7]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [7] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [7].
+Barber [1]: I'm now ready to accept a customer
+Customer [7]: Well done. Thank barber[1], bye!
+Customer [8]: I have arrived at the barber shop.
+Customer [8]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [8] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [8]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [8] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [8].
+Barber [1]: I'm now ready to accept a customer
+Customer [8]: Well done. Thank barber[1], bye!
+Customer [9]: I have arrived at the barber shop.
+Customer [9]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [9] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [9]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [9] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [9].
+Barber [1]: I'm now ready to accept a customer
+Customer [9]: Well done. Thank barber[1], bye!
+Customer [10]: I have arrived at the barber shop.
+Customer [10]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [10] with ticket number {1} to Barber [1].
+Customer [10]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [10] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [10].
+Barber [1]: I'm now ready to accept a customer
+Customer [10]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 5
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 1
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 5
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 5
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [2] with ticket number {2} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {2} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [2] with ticket number {2}
+Barber [1]: Finished cutting. Good bye, customer [2].
+Barber [1]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[1], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [3] with ticket number {3} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {3} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [3] with ticket number {3}
+Barber [1]: Finished cutting. Good bye, customer [3].
+Barber [1]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[1], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [4] with ticket number {4} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {4} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [4] with ticket number {4}
+Barber [1]: Finished cutting. Good bye, customer [4].
+Barber [1]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[1], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [5] with ticket number {5} to Barber [1].
+Customer [5]: My ticket numbered {5} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [5] with ticket number {5}
+Barber [1]: Finished cutting. Good bye, customer [5].
+Barber [1]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h5 ./barbershop[?2004l
+Enter the number of the seats (int): 5
+Enter the total number of barbers (int): 1
+Enter the total number of customers (int): 10
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [2] with ticket number {2} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {2} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [2] with ticket number {2}
+Barber [1]: Finished cutting. Good bye, customer [2].
+Barber [1]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[1], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [3] with ticket number {3} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {3} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [3] with ticket number {3}
+Barber [1]: Finished cutting. Good bye, customer [3].
+Barber [1]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[1], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [4] with ticket number {4} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {4} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [4] with ticket number {4}
+Barber [1]: Finished cutting. Good bye, customer [4].
+Barber [1]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[1], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [5] with ticket number {5} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [5]: My ticket numbered {5} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [5] with ticket number {5}
+Barber [1]: Finished cutting. Good bye, customer [5].
+Barber [1]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[1], bye!
+Customer [6]: I have arrived at the barber shop.
+Customer [6]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [6] with ticket number {1} to Barber [1].
+Customer [6]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Assistant: I'm waiting for customers.
+Barber [1]: Hello, Customer [6] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [6].
+Barber [1]: I'm now ready to accept a customer
+Customer [6]: Well done. Thank barber[1], bye!
+Customer [7]: I have arrived at the barber shop.
+Customer [7]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [7] with ticket number {2} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [7]: My ticket numbered {2} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [7] with ticket number {2}
+Barber [1]: Finished cutting. Good bye, customer [7].
+Barber [1]: I'm now ready to accept a customer
+Customer [7]: Well done. Thank barber[1], bye!
+Customer [8]: I have arrived at the barber shop.
+Customer [8]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [8] with ticket number {3} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [8]: My ticket numbered {3} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [8] with ticket number {3}
+Barber [1]: Finished cutting. Good bye, customer [8].
+Barber [1]: I'm now ready to accept a customer
+Customer [8]: Well done. Thank barber[1], bye!
+Customer [9]: I have arrived at the barber shop.
+Customer [9]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [9] with ticket number {4} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [9]: My ticket numbered {4} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [9] with ticket number {4}
+Barber [1]: Finished cutting. Good bye, customer [9].
+Barber [1]: I'm now ready to accept a customer
+Customer [9]: Well done. Thank barber[1], bye!
+Customer [10]: I have arrived at the barber shop.
+Customer [10]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [10] with ticket number {5} to Barber [1].
+Customer [10]: My ticket numbered {5} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [10] with ticket number {5}
+Barber [1]: Finished cutting. Good bye, customer [10].
+Barber [1]: I'm now ready to accept a customer
+Customer [10]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 5
+Enter the total number of customers (int): 1
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 5
+Enter the total number of customers (int): 5
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [2] with ticket number {1} to Barber [2].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {1} has been called. Hello, Barber [2]!
+Barber [2]: Hello, Customer [2] with ticket number {1}
+Barber [2]: Finished cutting. Good bye, customer [2].
+Barber [2]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[2], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [3] with ticket number {1} to Barber [3].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {1} has been called. Hello, Barber [3]!
+Barber [3]: Hello, Customer [3] with ticket number {1}
+Barber [3]: Finished cutting. Good bye, customer [3].
+Barber [3]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[3], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [4] with ticket number {1} to Barber [4].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {1} has been called. Hello, Barber [4]!
+Barber [4]: Hello, Customer [4] with ticket number {1}
+Barber [4]: Finished cutting. Good bye, customer [4].
+Barber [4]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[4], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [5] with ticket number {1} to Barber [5].
+Customer [5]: My ticket numbered {1} has been called. Hello, Barber [5]!
+Barber [5]: Hello, Customer [5] with ticket number {1}
+Barber [5]: Finished cutting. Good bye, customer [5].
+Barber [5]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[5], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 1
+Enter the total number of barbers (int): 5
+Enter the total number of customers (int): 10
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [2] with ticket number {1} to Barber [2].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {1} has been called. Hello, Barber [2]!
+Barber [2]: Hello, Customer [2] with ticket number {1}
+Barber [2]: Finished cutting. Good bye, customer [2].
+Barber [2]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[2], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [3] with ticket number {1} to Barber [4].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {1} has been called. Hello, Barber [4]!
+Barber [4]: Hello, Customer [3] with ticket number {1}
+Barber [4]: Finished cutting. Good bye, customer [3].
+Barber [4]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[4], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [4] with ticket number {1} to Barber [5].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {1} has been called. Hello, Barber [5]!
+Barber [5]: Hello, Customer [4] with ticket number {1}
+Barber [5]: Finished cutting. Good bye, customer [4].
+Barber [5]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[5], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [5] with ticket number {1} to Barber [3].
+Assistant: I'm waiting for customers.
+Customer [5]: My ticket numbered {1} has been called. Hello, Barber [3]!
+Barber [3]: Hello, Customer [5] with ticket number {1}
+Barber [3]: Finished cutting. Good bye, customer [5].
+Barber [3]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[3], bye!
+Customer [6]: I have arrived at the barber shop.
+Customer [6]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [6] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [6]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [6] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [6].
+Barber [1]: I'm now ready to accept a customer
+Customer [6]: Well done. Thank barber[1], bye!
+Customer [7]: I have arrived at the barber shop.
+Customer [7]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [7] with ticket number {1} to Barber [2].
+Assistant: I'm waiting for customers.
+Customer [7]: My ticket numbered {1} has been called. Hello, Barber [2]!
+Barber [2]: Hello, Customer [7] with ticket number {1}
+Barber [2]: Finished cutting. Good bye, customer [7].
+Barber [2]: I'm now ready to accept a customer
+Customer [7]: Well done. Thank barber[2], bye!
+Customer [8]: I have arrived at the barber shop.
+Customer [8]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [8] with ticket number {1} to Barber [4].
+Assistant: I'm waiting for customers.
+Customer [8]: My ticket numbered {1} has been called. Hello, Barber [4]!
+Barber [4]: Hello, Customer [8] with ticket number {1}
+Barber [4]: Finished cutting. Good bye, customer [8].
+Barber [4]: I'm now ready to accept a customer
+Customer [8]: Well done. Thank barber[4], bye!
+Customer [9]: I have arrived at the barber shop.
+Customer [9]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [9] with ticket number {1} to Barber [5].
+Assistant: I'm waiting for customers.
+Customer [9]: My ticket numbered {1} has been called. Hello, Barber [5]!
+Barber [5]: Hello, Customer [9] with ticket number {1}
+Barber [5]: Finished cutting. Good bye, customer [9].
+Barber [5]: I'm now ready to accept a customer
+Customer [9]: Well done. Thank barber[5], bye!
+Customer [10]: I have arrived at the barber shop.
+Customer [10]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [10] with ticket number {1} to Barber [3].
+Customer [10]: My ticket numbered {1} has been called. Hello, Barber [3]!
+Barber [3]: Hello, Customer [10] with ticket number {1}
+Barber [3]: Finished cutting. Good bye, customer [10].
+Barber [3]: I'm now ready to accept a customer
+Customer [10]: Well done. Thank barber[3], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 6
+Enter the total number of barbers (int): 11
+Enter the total number of customers (int): 1
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [7]: I'm now ready to accept a customer
+Barber [6]: I'm now ready to accept a customer
+Barber [10]: I'm now ready to accept a customer
+Barber [11]: I'm now ready to accept a customer
+Barber [9]: I'm now ready to accept a customer
+Barber [8]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [7]: Thanks Assistant. See you tomorrow!
+Barber [9]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [10]: Thanks Assistant. See you tomorrow!
+Barber [8]: Thanks Assistant. See you tomorrow!
+Barber [6]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [11]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 6
+Enter the total number of barbers (int): 10 1
+Enter the total number of customers (int): 5
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [8]: I'm now ready to accept a customer
+Barber [11]: I'm now ready to accept a customer
+Barber [10]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [7]: I'm now ready to accept a customer
+Barber [9]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [6]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [2] with ticket number {2} to Barber [8].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {2} has been called. Hello, Barber [8]!
+Barber [8]: Hello, Customer [2] with ticket number {2}
+Barber [8]: Finished cutting. Good bye, customer [2].
+Barber [8]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[8], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [3] with ticket number {3} to Barber [11].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {3} has been called. Hello, Barber [11]!
+Barber [11]: Hello, Customer [3] with ticket number {3}
+Barber [11]: Finished cutting. Good bye, customer [3].
+Barber [11]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[11], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [4] with ticket number {4} to Barber [10].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {4} has been called. Hello, Barber [10]!
+Barber [10]: Hello, Customer [4] with ticket number {4}
+Barber [10]: Finished cutting. Good bye, customer [4].
+Barber [10]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[10], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [5] with ticket number {5} to Barber [2].
+Customer [5]: My ticket numbered {5} has been called. Hello, Barber [2]!
+Barber [2]: Hello, Customer [5] with ticket number {5}
+Barber [2]: Finished cutting. Good bye, customer [5].
+Barber [2]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[2], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [6]: Thanks Assistant. See you tomorrow!
+Barber [11]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [10]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [9]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [7]: Thanks Assistant. See you tomorrow!
+Barber [8]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 6
+Enter the total number of barbers (int): 11
+Enter the total number of customers (int): 10
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [6]: I'm now ready to accept a customer
+Barber [7]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [8]: I'm now ready to accept a customer
+Barber [9]: I'm now ready to accept a customer
+Barber [10]: I'm now ready to accept a customer
+Barber [11]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [2] with ticket number {2} to Barber [2].
+Customer [2]: My ticket numbered {2} has been called. Hello, Barber [2]!
+Assistant: I'm waiting for customers.
+Barber [2]: Hello, Customer [2] with ticket number {2}
+Barber [2]: Finished cutting. Good bye, customer [2].
+Barber [2]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[2], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [3] with ticket number {3} to Barber [3].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {3} has been called. Hello, Barber [3]!
+Barber [3]: Hello, Customer [3] with ticket number {3}
+Barber [3]: Finished cutting. Good bye, customer [3].
+Barber [3]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[3], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [4] with ticket number {4} to Barber [5].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {4} has been called. Hello, Barber [5]!
+Barber [5]: Hello, Customer [4] with ticket number {4}
+Barber [5]: Finished cutting. Good bye, customer [4].
+Barber [5]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[5], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [5] with ticket number {5} to Barber [6].
+Assistant: I'm waiting for customers.
+Customer [5]: My ticket numbered {5} has been called. Hello, Barber [6]!
+Barber [6]: Hello, Customer [5] with ticket number {5}
+Barber [6]: Finished cutting. Good bye, customer [5].
+Barber [6]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[6], bye!
+Customer [6]: I have arrived at the barber shop.
+Customer [6]: I'm lucky to get a free seat and a ticket numbered {6}
+Assistant: Assign Customer [6] with ticket number {6} to Barber [7].
+Assistant: I'm waiting for customers.
+Customer [6]: My ticket numbered {6} has been called. Hello, Barber [7]!
+Barber [7]: Hello, Customer [6] with ticket number {6}
+Barber [7]: Finished cutting. Good bye, customer [6].
+Barber [7]: I'm now ready to accept a customer
+Customer [6]: Well done. Thank barber[7], bye!
+Customer [7]: I have arrived at the barber shop.
+Customer [7]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [7] with ticket number {1} to Barber [4].
+Assistant: I'm waiting for customers.
+Customer [7]: My ticket numbered {1} has been called. Hello, Barber [4]!
+Barber [4]: Hello, Customer [7] with ticket number {1}
+Barber [4]: Finished cutting. Good bye, customer [7].
+Barber [4]: I'm now ready to accept a customer
+Customer [7]: Well done. Thank barber[4], bye!
+Customer [8]: I have arrived at the barber shop.
+Customer [8]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [8] with ticket number {2} to Barber [8].
+Assistant: I'm waiting for customers.
+Customer [8]: My ticket numbered {2} has been called. Hello, Barber [8]!
+Barber [8]: Hello, Customer [8] with ticket number {2}
+Barber [8]: Finished cutting. Good bye, customer [8].
+Barber [8]: I'm now ready to accept a customer
+Customer [8]: Well done. Thank barber[8], bye!
+Customer [9]: I have arrived at the barber shop.
+Customer [9]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [9] with ticket number {3} to Barber [9].
+Assistant: I'm waiting for customers.
+Customer [9]: My ticket numbered {3} has been called. Hello, Barber [9]!
+Barber [9]: Hello, Customer [9] with ticket number {3}
+Barber [9]: Finished cutting. Good bye, customer [9].
+Barber [9]: I'm now ready to accept a customer
+Customer [9]: Well done. Thank barber[9], bye!
+Customer [10]: I have arrived at the barber shop.
+Customer [10]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [10] with ticket number {4} to Barber [10].
+Customer [10]: My ticket numbered {4} has been called. Hello, Barber [10]!
+Barber [10]: Hello, Customer [10] with ticket number {4}
+Barber [10]: Finished cutting. Good bye, customer [10].
+Barber [10]: I'm now ready to accept a customer
+Customer [10]: Well done. Thank barber[10], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [6]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [8]: Thanks Assistant. See you tomorrow!
+Barber [10]: Thanks Assistant. See you tomorrow!
+Barber [7]: Thanks Assistant. See you tomorrow!
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [9]: Thanks Assistant. See you tomorrow!
+Barber [11]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 11
+Enter the total number of barbers (int): 6
+Enter the total number of customers (int): 1
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Assistant: I'm waiting for customers.
+Barber [1]: I'm now ready to accept a customer
+Barber [3]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [6]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [6]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004h./barbershop[?2004l
+Enter the number of the seats (int): 11
+Enter the total number of barbers (int): 6
+Enter the total number of customers (int): 5
+Enter barber's working lower pace (int): 1
+Enter barber's working upper pace (int): 1
+Enter customer's arriving lower rate (int): 2
+Enter customer's arriving upper pace (int): 2
+Barber [1]: I'm now ready to accept a customer
+Assistant: I'm waiting for customers.
+Barber [3]: I'm now ready to accept a customer
+Barber [2]: I'm now ready to accept a customer
+Barber [4]: I'm now ready to accept a customer
+Barber [5]: I'm now ready to accept a customer
+Barber [6]: I'm now ready to accept a customer
+Customer [1]: I have arrived at the barber shop.
+Customer [1]: I'm lucky to get a free seat and a ticket numbered {1}
+Assistant: Assign Customer [1] with ticket number {1} to Barber [1].
+Assistant: I'm waiting for customers.
+Customer [1]: My ticket numbered {1} has been called. Hello, Barber [1]!
+Barber [1]: Hello, Customer [1] with ticket number {1}
+Barber [1]: Finished cutting. Good bye, customer [1].
+Barber [1]: I'm now ready to accept a customer
+Customer [1]: Well done. Thank barber[1], bye!
+Customer [2]: I have arrived at the barber shop.
+Customer [2]: I'm lucky to get a free seat and a ticket numbered {2}
+Assistant: Assign Customer [2] with ticket number {2} to Barber [3].
+Assistant: I'm waiting for customers.
+Customer [2]: My ticket numbered {2} has been called. Hello, Barber [3]!
+Barber [3]: Hello, Customer [2] with ticket number {2}
+Barber [3]: Finished cutting. Good bye, customer [2].
+Barber [3]: I'm now ready to accept a customer
+Customer [2]: Well done. Thank barber[3], bye!
+Customer [3]: I have arrived at the barber shop.
+Customer [3]: I'm lucky to get a free seat and a ticket numbered {3}
+Assistant: Assign Customer [3] with ticket number {3} to Barber [2].
+Assistant: I'm waiting for customers.
+Customer [3]: My ticket numbered {3} has been called. Hello, Barber [2]!
+Barber [2]: Hello, Customer [3] with ticket number {3}
+Barber [2]: Finished cutting. Good bye, customer [3].
+Barber [2]: I'm now ready to accept a customer
+Customer [3]: Well done. Thank barber[2], bye!
+Customer [4]: I have arrived at the barber shop.
+Customer [4]: I'm lucky to get a free seat and a ticket numbered {4}
+Assistant: Assign Customer [4] with ticket number {4} to Barber [4].
+Assistant: I'm waiting for customers.
+Customer [4]: My ticket numbered {4} has been called. Hello, Barber [4]!
+Barber [4]: Hello, Customer [4] with ticket number {4}
+Barber [4]: Finished cutting. Good bye, customer [4].
+Barber [4]: I'm now ready to accept a customer
+Customer [4]: Well done. Thank barber[4], bye!
+Customer [5]: I have arrived at the barber shop.
+Customer [5]: I'm lucky to get a free seat and a ticket numbered {5}
+Assistant: Assign Customer [5] with ticket number {5} to Barber [5].
+Customer [5]: My ticket numbered {5} has been called. Hello, Barber [5]!
+Barber [5]: Hello, Customer [5] with ticket number {5}
+Barber [5]: Finished cutting. Good bye, customer [5].
+Barber [5]: I'm now ready to accept a customer
+Customer [5]: Well done. Thank barber[5], bye!
+Assistant: Hi Barber, we've finished the work for the day.
+Barber [4]: Thanks Assistant. See you tomorrow!
+Barber [3]: Thanks Assistant. See you tomorrow!
+Barber [6]: Thanks Assistant. See you tomorrow!
+Barber [2]: Thanks Assistant. See you tomorrow!
+Barber [5]: Thanks Assistant. See you tomorrow!
+Barber [1]: Thanks Assistant. See you tomorrow!
+[1m[7m%[27m[1m[0m                                                                                                              ]7;file://Le-Temps-Perdu.local/Users/zhangminxin/Desktop/OS%20Internals/Assignment[0m[27m[24m[J(base) zhangminxin@Le-Temps-Perdu Assignment % [K[?2004hs eexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Sep  6 10:11:20 2023
